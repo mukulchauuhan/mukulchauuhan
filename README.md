@@ -4,7 +4,7 @@
 
 **`Learning📖 Mastering👨‍🎨 Teaching👨‍🏫 (Developer/Creator/Contributor)`**
 
-**"I'm a full-stack developer and content creator, building my version of the digital world one step at a time. All coding projects are crafted from the ground up, from planning and designing to solving real-life problems with code. I am passionate about researching Quantum Computing, AI, Machine Learning, and Website Development, continuously exploring new frontiers in these fields.
+**"I'm a full-stack developer and content creator, building my version of the digital world one step at a time. All coding projects are crafted from the ground up, from planning and designing to solving real-life problems with code. I am passionate about researching Quantum Computing, AI, Machine Learning, and Website Development, continuously exploring new frontiers in these fields.**
 
 I am dedicated to contributing to open-source projects and striving to make meaningful advancements in the tech community, aiming to leave a lasting impact as a computer scientist.
 
